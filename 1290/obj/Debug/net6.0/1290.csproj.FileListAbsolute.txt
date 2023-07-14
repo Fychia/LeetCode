@@ -1,0 +1,12 @@
+E:\WorkSpace\CSharp\LeetCode\1290\bin\Debug\net6.0\1290.deps.json
+E:\WorkSpace\CSharp\LeetCode\1290\bin\Debug\net6.0\1290.dll
+E:\WorkSpace\CSharp\LeetCode\1290\bin\Debug\net6.0\1290.pdb
+E:\WorkSpace\CSharp\LeetCode\1290\obj\Debug\net6.0\1290.csproj.AssemblyReference.cache
+E:\WorkSpace\CSharp\LeetCode\1290\obj\Debug\net6.0\1290.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkSpace\CSharp\LeetCode\1290\obj\Debug\net6.0\1290.AssemblyInfoInputs.cache
+E:\WorkSpace\CSharp\LeetCode\1290\obj\Debug\net6.0\1290.AssemblyInfo.cs
+E:\WorkSpace\CSharp\LeetCode\1290\obj\Debug\net6.0\1290.csproj.CoreCompileInputs.cache
+E:\WorkSpace\CSharp\LeetCode\1290\obj\Debug\net6.0\1290.dll
+E:\WorkSpace\CSharp\LeetCode\1290\obj\Debug\net6.0\refint\1290.dll
+E:\WorkSpace\CSharp\LeetCode\1290\obj\Debug\net6.0\1290.pdb
+E:\WorkSpace\CSharp\LeetCode\1290\obj\Debug\net6.0\ref\1290.dll

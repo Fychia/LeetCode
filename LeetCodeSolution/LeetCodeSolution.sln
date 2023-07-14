@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeSolution", "LeetCodeSolution.csproj", "{677CC661-181D-4CF0-89E6-F42F9968F7B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LeetCodeSolution", "LeetCodeSolution.csproj", "{677CC661-181D-4CF0-89E6-F42F9968F7B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1662", "..\1662\1662.csproj", "{E8CA0A36-3A88-45DF-BA8F-D61BE30665A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1290", "..\1290\1290.csproj", "{0F3D6CDA-8011-41D1-AFFF-3FCBBE5BFC79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_1108", "..\_1108\_1108.csproj", "{FE2DEE71-57AC-4295-8508-AE98B1867B37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2469", "..\2469\2469.csproj", "{B2C58D25-E936-47AF-82E1-3865F1A33969}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +21,18 @@ Global
 		{677CC661-181D-4CF0-89E6-F42F9968F7B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{677CC661-181D-4CF0-89E6-F42F9968F7B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{677CC661-181D-4CF0-89E6-F42F9968F7B3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E8CA0A36-3A88-45DF-BA8F-D61BE30665A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E8CA0A36-3A88-45DF-BA8F-D61BE30665A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E8CA0A36-3A88-45DF-BA8F-D61BE30665A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E8CA0A36-3A88-45DF-BA8F-D61BE30665A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F3D6CDA-8011-41D1-AFFF-3FCBBE5BFC79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3D6CDA-8011-41D1-AFFF-3FCBBE5BFC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3D6CDA-8011-41D1-AFFF-3FCBBE5BFC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3D6CDA-8011-41D1-AFFF-3FCBBE5BFC79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE2DEE71-57AC-4295-8508-AE98B1867B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2DEE71-57AC-4295-8508-AE98B1867B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2DEE71-57AC-4295-8508-AE98B1867B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2DEE71-57AC-4295-8508-AE98B1867B37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2C58D25-E936-47AF-82E1-3865F1A33969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2C58D25-E936-47AF-82E1-3865F1A33969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2C58D25-E936-47AF-82E1-3865F1A33969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2C58D25-E936-47AF-82E1-3865F1A33969}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
